@@ -1,3 +1,4 @@
- the snow glows white on the mountain tonight
+the snow glows white on the mountain tonight
 ^S
+new line
 
